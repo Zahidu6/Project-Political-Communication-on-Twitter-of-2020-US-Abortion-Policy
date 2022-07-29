@@ -3,6 +3,7 @@
 
 Project on "Tweets by US Congress Members on 'Abortion Law and Policy' in 2022"
 
+*note: original tweets were excluded from this repository (privacy reasons)
 
 #### Links:
 * [GIT:SICSS-aachen-graz](https://github.com/JanaLasser/SICSS-aachen-graz/)
